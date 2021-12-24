@@ -1,3 +1,4 @@
+const Character = require('./character');
 
   // Creates two unique characters using the "character" constructor
   const grace = new Character('Grace', 30, 105);
